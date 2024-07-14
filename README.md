@@ -1,70 +1,64 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"> Projeto TratoTech </h1>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+  <a href="https://github.com/coelhoalexandre/projeto-alura-tratotech/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
-### `yarn start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Sumário
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Objetivos do Projeto](#objetivos-do-projeto)
+- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
+- [Autor](#autor)
 
-### `yarn test`
+## Sobre o Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Esse projeto foi feito em dois cursos.
 
-### `yarn build`
+O primeiro curso foi [React: conhecendo a biblioteca React Router](https://cursos.alura.com.br/course/react-biblioteca-react-router), com o objetivo de construir a aplicação.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+E o segundo foi [React: otimizando a performance](https://cursos.alura.com.br/course/react-otimizando-performance), com o objetivo de aumentar a performance da aplicação.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Ambos foram instruido por [**Luiz Fernando**](https://github.com/lfrprazeres).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Objetivos do Projeto
 
-### `yarn eject`
+- Saber como refatorar um projeto utilizando ESLint;
+- Desenvolver um código escalável, priorizando um código limpo e fácil de entender;
+- Utilizar o pacote react-router-dom de forma simples e prática, aprendendo todos os conceitos principais da biblioteca;
+- Descubrir como a biblioteca se integra com o navegador e utiliza de coisas nativas para mudar as rotas e compartilhar estados;
+- Criar telas navegando entre elas de diversas formas diferentes e reaproveite componentes eles elas;
+- Entender sobre nested routes e como criá-las para reaproveitar código e resolver problemas;
+- Saber como analisar componentes e páginas que podem ser mais performáticas;
+- Conhecer a fundo como o React renderiza seus componentes, também termos como Virtual DOM e Reconciliation;
+- Aprender como memoização e imutabilidade se complementam e porque eles são tão importantes no universo React;
+- Entender diferenças entre memo e useMemo e quando utilizar cada um deles;
+- Utilizar a extensão React Devtools de forma prática para analisar tempos de renderização de componentes e o motivo dos componentes estarem atualizando.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tecnolgias Utilizadas
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. HTML
+2. CSS
+3. JS
+4. React
+5. TS
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Autor
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div align="center">
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href = "https://github.com/coelhoalexandre"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/-coelhoalexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
+<a href = "https://cursos.alura.com.br/user/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Alura-0747a6?style=for-the-badge&logo=alura&logoColor=white" target="_blank" alt="Alura Badge"></a>
+<a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontEnd Mentor Badge">
